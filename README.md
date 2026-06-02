@@ -157,5 +157,5 @@
 <br>
 
 <div align="center">
-  <p style="font-size: 20px;">🪐 🛰️ 🛸 🌌 🌠</p>
+  <img src="footer.svg" width="100%" alt="Prasanna Thiru 3D Footer" />
 </div>

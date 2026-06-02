@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="100%" height="150">
+  <defs>
+    <!-- Gradients -->
+    <linearGradient id="grid-fade" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.0" />
+      <stop offset="40%" stop-color="#39d353" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#00f2fe" stop-opacity="0.9" />
+    </linearGradient>
+    
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    
+    <style>
+      /* infinite 3D perspective grid slide animation */
+      @keyframes grid-forward {
+        0% {
+          transform: translateY(-20px);
+          opacity: 0.1;
+        }
+        50% {
+          opacity: 0.6;
+        }
+        100% {
+          transform: translateY(20px);
+          opacity: 0.9;
+        }
+      }
+      
+      @keyframes star-blink {
+        0%, 100% { opacity: 0.2; }
+        50% { opacity: 1.0; }
+      }
+      
+      .horizontal-line {
+        stroke: url(#grid-fade);
+        stroke-width: 1.5;
+        filter: url(#glow);
+      }
+      
+      /* Distribute animations dynamically with keyframe offsets */
+      .line-0 { animation: grid-forward 4s linear infinite; }
+      .line-1 { animation: grid-forward 4s linear infinite; animation-delay: -0.8s; }
+      .line-2 { animation: grid-forward 4s linear infinite; animation-delay: -1.6s; }
+      .line-3 { animation: grid-forward 4s linear infinite; animation-delay: -2.4s; }
+      .line-4 { animation: grid-forward 4s linear infinite; animation-delay: -3.2s; }
+      
+      .star {
+        fill: #ffffff;
+        animation: star-blink 3s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+  
+  <!-- Deep space background -->
+  <rect width="1200" height="150" fill="#0d1117" />
+  
+  <!-- Blinking star particles -->
+  <g>
+    <circle cx="100" cy="30" r="1" class="star" style="animation-delay: 0.2s;" />
+    <circle cx="250" cy="50" r="1.5" class="star" style="animation-delay: 0.8s;" />
+    <circle cx="450" cy="20" r="1" class="star" style="animation-delay: 1.5s;" />
+    <circle cx="650" cy="40" r="1.2" class="star" style="animation-delay: 2.1s;" />
+    <circle cx="850" cy="25" r="1" class="star" style="animation-delay: 0.5s;" />
+    <circle cx="1050" cy="45" r="1.5" class="star" style="animation-delay: 1.2s;" />
+    <circle cx="1150" cy="15" r="1" class="star" style="animation-delay: 1.8s;" />
+  </g>
+  
+  <!-- 3D Perspective Grid -->
+  <g>
+    <!-- Perspective Vertical Rays radiating from a vanishing point above the canvas -->
+    <!-- Radiates from cx=600, cy=-50 -->
+    <line x1="600" y1="50" x2="-400" y2="150" stroke="#00f2fe" stroke-opacity="0.15" stroke-width="1.5" />
+    <line x1="600" y1="50" x2="-100" y2="150" stroke="#00f2fe" stroke-opacity="0.15" stroke-width="1.5" />
+    <line x1="600" y1="50" x2="150" y2="150" stroke="#00f2fe" stroke-opacity="0.2" stroke-width="1.5" />
+    <line x1="600" y1="50" x2="350" y2="150" stroke="#00f2fe" stroke-opacity="0.3" stroke-width="1.5" />
+    <line x1="600" y1="50" x2="500" y2="150" stroke="#39d353" stroke-opacity="0.4" stroke-width="1.5" filter="url(#glow)" />
+    <line x1="600" y1="50" x2="600" y2="150" stroke="#39d353" stroke-opacity="0.5" stroke-width="2.0" filter="url(#glow)" />
+    <line x1="600" y1="50" x2="700" y2="150" stroke="#39d353" stroke-opacity="0.4" stroke-width="1.5" filter="url(#glow)" />
+    <line x1="600" y1="50" x2="850" y2="150" stroke="#00f2fe" stroke-opacity="0.3" stroke-width="1.5" />
+    <line x1="600" y1="50" x2="1050" y2="150" stroke="#00f2fe" stroke-opacity="0.2" stroke-width="1.5" />
+    <line x1="600" y1="50" x2="1300" y2="150" stroke="#00f2fe" stroke-opacity="0.15" stroke-width="1.5" />
+    <line x1="600" y1="50" x2="1600" y2="150" stroke="#00f2fe" stroke-opacity="0.15" stroke-width="1.5" />
+  </g>
+  
+  <!-- Infinitely moving horizontal perspective lines -->
+  <g>
+    <line x1="0" y1="70" x2="1200" y2="70" class="horizontal-line line-0" />
+    <line x1="0" y1="90" x2="1200" y2="90" class="horizontal-line line-1" />
+    <line x1="0" y1="110" x2="1200" y2="110" class="horizontal-line line-2" />
+    <line x1="0" y1="130" x2="1200" y2="130" class="horizontal-line line-3" />
+    <line x1="0" y1="150" x2="1200" y2="150" class="horizontal-line line-4" />
+  </g>
+  
+  <!-- Centered cosmic status bar in the middle of space -->
+  <g transform="translate(600, 45)" text-anchor="middle">
+    <text font-family="'Fira Code', monospace" font-size="13px" font-weight="bold" fill="#8b949e" letter-spacing="3px">
+      🪐 MISSION CONTROL STATUS: <tspan fill="#39d353">ONLINE</tspan> // ORBIT ACTIVE 🛰️
+    </text>
+  </g>
+</svg>
