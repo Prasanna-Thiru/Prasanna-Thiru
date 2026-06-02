@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+👨‍💻 About Me
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 <!--
 **Prasanna-Thiru/Prasanna-Thiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
