@@ -14,7 +14,7 @@
 
 | System Property | Orbit & Core Data |
 | :--- | :--- |
-| 🌌 **Name** | **Prasanna T** |
+| 🌌 **Name** | **Prasanna Thiru** |
 | 📍 **Mission Control** | Chennai, India |
 | 🎓 **Academic Orbit** | B.E. CSE (AI & ML), AMET University |
 | 🛸 **Core Focus** | Generative AI, RAG Systems, NLP, Vector Databases |
