@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Prasanna%20T&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI+%26+Data+Science+Engineer+%7C+Building+Intelligent+Systems&descAlignY=62&descSize=16" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a0f1d,70a5fd,bf91f3&height=220&section=header&text=Prasanna%20T&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Generative+AI+%26+RAG+Developer+%7C+AI+Engineer&descAlignY=65&descSize=18" width="100%" alt="Prasanna T Header Banner" />
 </div>
 
 <br>
@@ -12,9 +12,9 @@
 
 ---
 
-## 💻 About Me
+## 🌌 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
+<img src="https://raw.githubusercontent.com/Javieer5/Javieer5/main/assets/spaceman.gif" width="380" align="right" alt="Astronaut coding in space" />
 
 ```python
 class PrasannaT:
@@ -27,12 +27,12 @@ class PrasannaT:
             "Node.js", "FAISS", "Gemini API", "Groq API", "SQL",
             "MongoDB", "ArangoDB", "Docker", "Git", "Streamlit"
         ]
-        self.currentlyLearning = [
+        self.currently_learning = [
             "Advanced RAG Architectures",
             "Graph-Based Data Models with ArangoDB",
             "Production-Grade AI Deployment"
         ]
-        self.funFact = "I blend space-themed UI designs with real-world AI applications"
+        self.fun_fact = "I blend space-themed UI designs with real-world AI applications"
 
     def motto(self):
         return "Transforming data into intelligence, one model at a time."
@@ -42,49 +42,17 @@ class PrasannaT:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛸 Tech Stack & System Core
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,mysql,c,cpp,react,flask,fastapi,nodejs,mongodb,docker,git,postman,tailwind,bootstrap,html,css&perline=9" alt="My Tech Stack" />
+</div>
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0081CB?style=flat-square&logo=meta&logoColor=white)
-![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
-
-### Cloud & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?style=flat-square&logo=arangodb&logoColor=black)
-
-### Tools & Visualization
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CB5?style=flat-square&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+<br>
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Cosmic Metrics
 
 <div align="center">
   <a href="https://github.com/prasannathiru05">
@@ -109,16 +77,28 @@ class PrasannaT:
 
 <br>
 
+### 🪐 Contribution Orbit in 3D
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/prasannathiru05/prasannathiru05/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</div>
+
+> [!TIP]
+> This stunning 3D contribution chart is generated automatically via GitHub Actions! To enable it on your repository, set up the **[yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)** action.
+
+<br>
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=prasannathiru05&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophy Wall" />
 </div>
 
 ---
 
-## 💼 Work Experience
+## 🛰️ Professional Missions
 
-<details>
+<details open>
 <summary><b>AI Product Engineering Intern</b> @ Sure Trust Pro EDU &nbsp;|&nbsp; Jan 2026 – Present &nbsp;|&nbsp; Remote</summary>
+<br>
 
 > `Python` `Generative AI` `NLP` `React.js` `ArangoDB` `REST APIs` `Prompt Engineering` `Graph-Based Data Models`
 
@@ -128,8 +108,11 @@ class PrasannaT:
 - Collaborated on **full-stack feature development** and built **analytics dashboards** for real-time product insights
 </details>
 
+<br>
+
 <details>
 <summary><b>Frontend Developer Intern</b> @ Nexpuzz Tech &nbsp;|&nbsp; 2025 &nbsp;|&nbsp; India</summary>
+<br>
 
 > `React.js` `HTML5` `CSS3` `Axios` `Context API` `Responsive Design` `API Integration`
 
@@ -140,27 +123,27 @@ class PrasannaT:
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Space Projects
 
 <div align="center">
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| [**AI-Powered RAG System**](https://github.com/prasannathiru05) | `Python` `FAISS` `Gemini API` `Groq API` `Sentence Transformers` | Built a modular **Retrieval-Augmented Generation pipeline** with document chunking, semantic retrieval, vector search, and context-aware response generation using **FAISS** and **Groq LLMs** |
-| [**GeoOrbit AI**](https://github.com/prasannathiru05) | `Streamlit` `Adzuna API` `Plotly Mapbox` `Three.js` | Developed a real-time geographical job search platform with **3D mission-map visualizations**, AI-enhanced tech stack filtering, and a premium **space-themed UI** for live career exploration |
-| [**Placement Prediction App**](https://github.com/prasannathiru05) | `React.js` `Python` `scikit-learn` `Flask/FastAPI` `Node.js` `SQL` | End-to-end **ML-powered career intelligence tool** predicting student placement outcomes with real-time probability scores via a **Node.js middleware** orchestration layer |
-| [**Cinematch**](https://github.com/prasannathiru05) | `React.js` `Axios` `Context API` `Hooks` `REST APIs` | Smart movie recommendation web app with personalized suggestions based on user preferences and moods, featuring **modular React components** and cross-device responsive optimization |
+| 🌌 [**AI-Powered RAG System**](https://github.com/prasannathiru05) | `Python` `FAISS` `Gemini API` `Groq API` `Sentence Transformers` | Built a modular **Retrieval-Augmented Generation pipeline** with document chunking, semantic retrieval, vector search, and context-aware response generation using **FAISS** and **Groq LLMs** |
+| 🛸 [**GeoOrbit AI**](https://github.com/prasannathiru05) | `Streamlit` `Adzuna API` `Plotly Mapbox` `Three.js` | Developed a real-time geographical job search platform with **3D mission-map visualizations**, AI-enhanced tech stack filtering, and a premium **space-themed UI** for live career exploration |
+| 🔮 [**Placement Prediction App**](https://github.com/prasannathiru05) | `React.js` `Python` `scikit-learn` `Flask/FastAPI` `Node.js` `SQL` | End-to-end **ML-powered career intelligence tool** predicting student placement outcomes with real-time probability scores via a **Node.js middleware** orchestration layer |
+| 🎬 [**Cinematch**](https://github.com/prasannathiru05) | `React.js` `Axios` `Context API` `Hooks` `REST APIs` | Smart movie recommendation web app with personalized suggestions based on user preferences and moods, featuring **modular React components** and cross-device responsive optimization |
 
 </div>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Cosmic Achievements
 
 <div align="center">
 
-| 🏅 | Achievement | Details |
-|----|-------------|---------|
+| Status | Achievement | Details |
+| :---: | :--- | :--- |
 | 🎓 | **IBM Certified — Python for Data Science** | Completed professional certification via **Cognitive Class IBM** |
 | 📊 | **IBM Certified — Data Visualization with Python** | Mastered data storytelling and visualization techniques via **Cognitive Class IBM** |
 | 💻 | **Web Development (React JS)** | Certified by **Nexpuzz Technologies** for full-stack React proficiency |
@@ -170,20 +153,20 @@ class PrasannaT:
 
 ---
 
-## 🎓 Education
+## 🪐 Academic Orbit
 
 <div align="center">
 
 | Degree | Institution | Year | Score |
-|--------|-------------|------|-------|
-| **B.E., CSE (AI & ML)** | AMET University, Chennai | Jul 2023 – May 2027 (Pursuing) | **GPA: 7.8 / 10.0** |
-| **HSC (12th Grade)** | Bannari Amman Vidhya Niketan | 2022 – 2023 | — |
+| :---: | :--- | :---: | :---: |
+| 🎓 **B.E., CSE (AI & ML)** | AMET University, Chennai | Jul 2023 – May 2027 (Pursuing) | **GPA: 7.8 / 10.0** |
+| 🏫 **HSC (12th Grade)** | Bannari Amman Vidhya Niketan | 2022 – 2023 | **—** |
 
 </div>
 
 ---
 
-## 📚 Currently Learning
+## 📚 Research & Future Orbits
 
 ```
 🧠 Advanced RAG Architectures
@@ -198,7 +181,7 @@ class PrasannaT:
 
 ---
 
-## 🌐 Connect With Me
+## 📡 Quantum Comm-Link
 
 <div align="center">
 
