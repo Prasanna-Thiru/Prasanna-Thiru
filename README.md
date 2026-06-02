@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.svg" width="100%" alt="Prasanna T - Generative AI & RAG Engineer Banner" />
+  <img src="banner.svg" width="100%" alt="Prasanna Thiru - Generative AI & RAG Engineer Banner" />
 </div>
 
 <br>
