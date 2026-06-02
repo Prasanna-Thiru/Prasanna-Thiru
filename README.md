@@ -4,8 +4,6 @@
 
 <div align="center">
   <h1>🌌 PRASANNA THIRU</h1>
-  <h3>🛸 Generative AI &amp; RAG Systems Engineer</h3>
-  <p>Building Intelligent, Vector-Searchable Abstractions for Real-World Workflows</p>
 </div>
 
 <br>
