@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Prasanna%20T&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Generative+AI+%26+RAG+Developer+%7C+AI+Engineer&descAlignY=65&descSize=18" width="100%" alt="Prasanna T Header Banner" />
+  <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Cosmic Space Banner" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Generative+AI+%26+RAG+Developer;Full-Stack+AI+Application+Engineer;React.js+%7C+Python+%7C+NLP+%7C+Vector+Search;Building+Scalable+AI+Workflows+for+Real-World+Impact" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=PRASANNA+T;Generative+AI+%26+RAG+Developer;AI+%26+Data+Science+Engineer;Building+Scalable+AI+Workflows" alt="typing animation" />
 </div>
 
 <br>
@@ -34,7 +34,23 @@
 ## 🛸 Tech Stack & System Core
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,mysql,c,cpp,react,flask,fastapi,nodejs,mongodb,docker,git,postman,tailwind,bootstrap,html,css&perline=9" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py" title="Python" alt="Python" height="48" width="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" height="48" width="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" height="48" width="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" height="48" width="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" height="48" width="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" title="React.js" alt="React" height="48" width="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" title="Flask" alt="Flask" height="48" width="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" height="48" width="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" height="48" width="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" height="48" width="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" height="48" width="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" height="48" width="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" height="48" width="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" alt="Tailwind" height="48" width="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" height="48" width="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML5" height="48" width="48" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS3" height="48" width="48" />
 </div>
 
 <br>
@@ -143,5 +159,5 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" alt="footer wave" />
+  <p style="font-size: 20px;">🪐 🛰️ 🛸 🌌 🌠</p>
 </div>
