@@ -1,11 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Cosmic Space Banner" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=PRASANNA+T;Generative+AI+%26+RAG+Developer;AI+%26+Data+Science+Engineer;Building+Scalable+AI+Workflows" alt="typing animation" />
+  <img src="banner.svg" width="100%" alt="Prasanna T - Generative AI & RAG Engineer Banner" />
 </div>
 
 <br>
