@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.svg" width="100%" alt="Prasanna Thiru Banner" />
+  <img src="banner.jpg" width="100%" alt="Prasanna Thiru Banner" />
 </div>
 
 <div align="center">
