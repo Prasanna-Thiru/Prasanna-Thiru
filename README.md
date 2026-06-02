@@ -4,7 +4,7 @@
 
 <br>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🌌 About Me
 
@@ -23,7 +23,7 @@
 
 <br clear="right">
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🛸 Tech Stack & System Core
 
@@ -49,7 +49,7 @@
 
 <br>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🛰️ Professional Missions
 
@@ -78,7 +78,7 @@
 - Collaborated with the development team to improve **performance, usability, and user engagement** metrics
 </details>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🚀 Featured Space Projects
 
@@ -93,7 +93,7 @@
 
 </div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🏆 Cosmic Achievements
 
@@ -108,7 +108,7 @@
 
 </div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🪐 Academic Orbit
 
@@ -121,7 +121,7 @@
 
 </div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 📚 Research & Future Orbits
 
@@ -132,7 +132,7 @@
 - 🚀 **Production-Grade AI Deployment**
   - Docker Containerization | CI/CD Pipelines | Scalable Inference APIs
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 📡 Quantum Comm-Link
 
