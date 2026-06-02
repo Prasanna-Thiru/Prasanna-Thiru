@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a0f1d,70a5fd,bf91f3&height=220&section=header&text=Prasanna%20T&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Generative+AI+%26+RAG+Developer+%7C+AI+Engineer&descAlignY=65&descSize=18" width="100%" alt="Prasanna T Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Prasanna%20T&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Generative+AI+%26+RAG+Developer+%7C+AI+Engineer&descAlignY=65&descSize=18" width="100%" alt="Prasanna T Header Banner" />
 </div>
 
 <br>
@@ -16,27 +16,16 @@
 
 <img src="https://raw.githubusercontent.com/Javieer5/Javieer5/main/assets/spaceman.gif" width="380" align="right" alt="Astronaut coding in space" />
 
-```python
-class PrasannaT:
-    def __init__(self):
-        self.name = "Prasanna T"
-        self.location = "Chennai, India"
-        self.degree = "B.E. CSE (AI & ML), AMET University"
-        self.stack = [
-            "Python", "JavaScript", "React.js", "Flask", "FastAPI",
-            "Node.js", "FAISS", "Gemini API", "Groq API", "SQL",
-            "MongoDB", "ArangoDB", "Docker", "Git", "Streamlit"
-        ]
-        self.currently_learning = [
-            "Advanced RAG Architectures",
-            "Graph-Based Data Models with ArangoDB",
-            "Production-Grade AI Deployment"
-        ]
-        self.fun_fact = "I blend space-themed UI designs with real-world AI applications"
+### 🛰️ System Architecture & Mission Details
 
-    def motto(self):
-        return "Transforming data into intelligence, one model at a time."
-```
+| System Property | Orbit & Core Data |
+| :--- | :--- |
+| 🌌 **Name** | **Prasanna T** |
+| 📍 **Mission Control** | Chennai, India |
+| 🎓 **Academic Orbit** | B.E. CSE (AI & ML), AMET University |
+| 🛸 **Core Focus** | Generative AI, RAG Systems, NLP, Vector Databases |
+| 👾 **Cosmic Fun Fact** | Blending space-themed UI designs with real-world AI applications |
+| 📜 **System Motto** | *Transforming data into intelligence, one model at a time.* |
 
 <br clear="right">
 
@@ -49,48 +38,6 @@ class PrasannaT:
 </div>
 
 <br>
-
----
-
-## 📈 GitHub Cosmic Metrics
-
-<div align="center">
-  <a href="https://github.com/prasannathiru05">
-    <img src="https://github-readme-stats.vercel.app/api?username=prasannathiru05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" height="180" />
-  </a>
-  <a href="https://github.com/prasannathiru05">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasannathiru05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages" height="180" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=prasannathiru05&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasannathiru05&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
-<br>
-
-### 🪐 Contribution Orbit in 3D
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/prasannathiru05/prasannathiru05/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
-</div>
-
-> [!TIP]
-> This stunning 3D contribution chart is generated automatically via GitHub Actions! To enable it on your repository, set up the **[yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)** action.
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prasannathiru05&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophy Wall" />
-</div>
 
 ---
 
@@ -131,7 +78,7 @@ class PrasannaT:
 |---------|-------|------------|
 | 🌌 [**AI-Powered RAG System**](https://github.com/prasannathiru05) | `Python` `FAISS` `Gemini API` `Groq API` `Sentence Transformers` | Built a modular **Retrieval-Augmented Generation pipeline** with document chunking, semantic retrieval, vector search, and context-aware response generation using **FAISS** and **Groq LLMs** |
 | 🛸 [**GeoOrbit AI**](https://github.com/prasannathiru05) | `Streamlit` `Adzuna API` `Plotly Mapbox` `Three.js` | Developed a real-time geographical job search platform with **3D mission-map visualizations**, AI-enhanced tech stack filtering, and a premium **space-themed UI** for live career exploration |
-| 🔮 [**Placement Prediction App**](https://github.com/prasannathiru05) | `React.js` `Python` `scikit-learn` `Flask/FastAPI` `Node.js` `SQL` | End-to-end **ML-powered career intelligence tool** predicting student placement outcomes with real-time probability scores via a **Node.js middleware** orchestration layer |
+| 🔮 [**Placement Prediction App**](https://github.com/prasannathiru05) | `React.js` `Python` `scikit-learn` `Flask/FastAPI` `Node.js` | End-to-end **ML-powered career intelligence tool** predicting student placement outcomes with real-time probability scores via a **Node.js middleware** orchestration layer |
 | 🎬 [**Cinematch**](https://github.com/prasannathiru05) | `React.js` `Axios` `Context API` `Hooks` `REST APIs` | Smart movie recommendation web app with personalized suggestions based on user preferences and moods, featuring **modular React components** and cross-device responsive optimization |
 
 </div>
@@ -168,16 +115,12 @@ class PrasannaT:
 
 ## 📚 Research & Future Orbits
 
-```
-🧠 Advanced RAG Architectures
-    → Multi-hop Retrieval | Re-ranking Strategies | Hybrid Search
-
-🕸️ Graph-Based Data Models with ArangoDB
-    → Graph Analytics | Multi-Model Databases | Relationship Intelligence
-
-🚀 Production-Grade AI Deployment
-    → Docker Containerization | CI/CD Pipelines | Scalable Inference APIs
-```
+- 🧠 **Advanced RAG Architectures**
+  - Multi-hop Retrieval | Re-ranking Strategies | Hybrid Search
+- 🕸️ **Graph-Based Data Models with ArangoDB**
+  - Graph Analytics | Multi-Model Databases | Relationship Intelligence
+- 🚀 **Production-Grade AI Deployment**
+  - Docker Containerization | CI/CD Pipelines | Scalable Inference APIs
 
 ---
 
@@ -185,7 +128,7 @@ class PrasannaT:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-prasannathiru05@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:prasannathiru05@gmail.com)
+[![Email](https://img.shields.io/badge/Email-prasannathiru05@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mailto:prasannathiru05@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Prasanna%20T-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasannathiru05)
 [![GitHub](https://img.shields.io/badge/GitHub-prasannathiru05-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prasannathiru05)
 
